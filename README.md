@@ -2,9 +2,14 @@
 
 **Reengineering · Optimisation · Integration · Consolidation · Engineering**
 
-A procedure for rebuilding how work is done — before automating it. Written for organisations that
-are about to spend real money on AI and automation, and for the people who have to live with the
-result.
+A framework for rebuilding an organisation's operating processes from first principles — modelled on
+how China built BYD, disciplined by how Japan built Toyota, and optimised for **total lifecycle value
+instead of unit cost**.
+
+ROICE is not a tool and not a software product. It is a procedure, a set of artefacts and a governance
+model for one job: *take a process apart to the last step, understand why every step exists, and
+rebuild it with fewer parts, fewer handoffs and fewer failure points — without buying speed by
+exporting cost into the years after go-live.*
 
 ![Logo](assets/logo.png)
 
