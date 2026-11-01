@@ -145,3 +145,7 @@ Most AI projects start at rung 5. That is why they are expensive to change after
 ## License
 
 Text: **CC BY-SA 4.0** · Code and scripts: **MIT**. See [LICENSE](LICENSE).
+
+---
+
+#lumisystemsio
